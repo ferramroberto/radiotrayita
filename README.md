@@ -9,3 +9,6 @@ wget https://github.com/ferramroberto/radiotrayita/raw/master/bookmarks.xml
 
 mv bookmarks.xml ~/.local/share/radiotray
 
+
+
+<a href="https://lh6.googleusercontent.com/-hDdhr1ZMqKw/UX0IOG_wIrI/AAAAAAABDy0/3zYCeV9plV0/s800/radiotray-ubuntu-ita.png"><img  src="https://lh6.googleusercontent.com/-hDdhr1ZMqKw/UX0IOG_wIrI/AAAAAAABDy0/3zYCeV9plV0/s800/radiotray-ubuntu-ita.png" width="400" />
