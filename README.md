@@ -4,5 +4,8 @@
 Per installare basta digitare da terminale:
 
 cd
+
 wget https://github.com/ferramroberto/radiotrayita/raw/master/bookmarks.xml
+
 mv bookmarks.xml ~/.local/share/radiotray
+
