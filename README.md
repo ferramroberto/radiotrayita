@@ -1,5 +1,5 @@
 
-<b>Radio italiane su RadioTray by lffl <a href="http://www.lffl.org/">www.lffl.org</a></b>
+<b><span style="font-size: large;">Radio italiane su RadioTray by lffl <a href="http://www.lffl.org/">www.lffl.org</a></span></b>
 
 Per installare le Radio Italiane in Radio Tray basta digitare da terminale:
 
